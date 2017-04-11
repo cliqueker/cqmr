@@ -1,5 +1,4 @@
-<?php require 'functions.php'; ?>
-<DOCTYPE! html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>CQMR</title>
